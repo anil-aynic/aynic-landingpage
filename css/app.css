@@ -1,0 +1,83 @@
+<<<<<<< HEAD
+.cleartotal{
+    clear:both;
+}
+.cleartotal :after{
+    clear: both;
+    content: '';
+    display: block;
+}
+.card-item{
+
+    box-shadow: 0px 0px 5px #ccc;
+    background-color: white
+
+}
+.card
+{
+    padding-bottom: 15px !important;
+
+}
+
+.card .card-header{
+    padding: 10px;
+    color: #060608;
+    font-size: 20px;
+
+}
+.card .card-body{
+    padding: 10px
+;
+}
+.heading{
+    color: #16A085;
+    font-weight: 300;
+    font-size: 25px;
+    margin: 30px 0;
+    float: left;
+    clear: both;
+    padding-left: 20px;
+
+}
+=======
+.cleartotal{
+    clear:both;
+}
+.cleartotal :after{
+    clear: both;
+    content: '';
+    display: block;
+}
+.card-item{
+
+    box-shadow: 0px 0px 5px #ccc;
+    background-color: white
+
+}
+.card
+{
+    padding-bottom: 15px !important;
+
+}
+
+.card .card-header{
+    padding: 10px;
+    color: #060608;
+    font-size: 20px;
+
+}
+.card .card-body{
+    padding: 10px
+;
+}
+.heading{
+    color: #16A085;
+    font-weight: 300;
+    font-size: 25px;
+    margin: 30px 0;
+    float: left;
+    clear: both;
+    padding-left: 20px;
+
+}
+>>>>>>> f9dcc2bcca559b6a2ea393c5b0d43e0a6e76f2b4
