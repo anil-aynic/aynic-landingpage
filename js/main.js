@@ -91,7 +91,7 @@
 				type:'inline',
 				src:'<div class="how-it-works popup-content clearfix">\
 					<div class="col-sm-7 p-lr0">\
-						<img src="images/contractor_filled-icons_greenback.png" />\
+						<img src="images/contractor_filled-icons_greenbackcrop.png" />\
 					</div>\
 					<div class="description col-sm-5">\
 						<h3>For Contractor </h3>\
@@ -132,7 +132,7 @@
 				type:'inline',
 				src:'<div class="how-it-works popup-content clearfix">\
 					<div class="col-sm-7 p-lr0">\
-						<img src="images/vendor_filled-icons_greenback.png" />\
+						<img src="images/vendor_filled-icons_greenbackcrop.png" />\
 					</div>\
 					<div class="description col-sm-5">\
 						<h3>For Vendor </h3>\
@@ -171,7 +171,7 @@
 				type:'inline',
 				src:'<div class="how-it-works popup-content clearfix">\
 					<div class="col-sm-7 p-lr0">\
-						<img src="images/transporter_filled-icons_greenback.png" />\
+						<img src="images/transporter_filled-icons_greenbackcrop.png" />\
 					</div>\
 					<div class="description col-sm-5">\
 						<h3>For Transporter </h3>\
@@ -290,7 +290,7 @@
 							<div class="icon"><img src="images/icons/machine_operator_256.png" alt=""></div>\
 							<div class="image-name">Machine Operator</div>\
 						</div>\
-						<div class="many-more">and many more ... Please <a href="#"> Register</a> to explore further</div>\
+						<div class="many-more">and many more ... Please <a href="http://aynicportal.herokuapp.com/#/page/signup"> Register</a> to explore further</div>\
 					</div>'
 			}
 		})
@@ -332,7 +332,7 @@
 							<div class="icon"><img src="images/icons/admixture_256.png" alt=""></div>\
 							<div class="image-name">Concrete Mixture</div>\
 						</div>\
-						<div class="many-more">and many more ... Please <a href="#"> Register</a> to explore further</div>\
+						<div class="many-more">and many more ... Please <a href="http://aynicportal.herokuapp.com/#/page/signup"> Register</a> to explore further</div>\
 					</div>'
 			}
 		})
@@ -374,7 +374,7 @@
 							<div class="icon"><img src="images/icons/survey_256.png" alt=""></div>\
 							<div class="image-name">Survey</div>\
 						</div>\
-						<div class="many-more">and many more ... Please <a href="#"> Register</a> to explore further</div>\
+						<div class="many-more">and many more ... Please <a href="http://aynicportal.herokuapp.com/#/page/signup"> Register</a> to explore further</div>\
 					</div>'
 			}
 		})
@@ -417,7 +417,7 @@
 						<div class="icon"><img src="images/icons/pipe_256.png" alt=""></div>\
 						<div class="image-name">Pipes</div>\
 					</div>\
-					<div class="many-more">and many more ... Please <a href="#"> Register</a> to explore further</div>\
+					<div class="many-more">and many more ... Please <a href="http://aynicportal.herokuapp.com/#/page/signup"> Register</a> to explore further</div>\
 				</div></div>'
 			}
 		})
@@ -459,7 +459,7 @@
 						<div class="icon"><img src="images/icons/pipe_256.png" alt=""></div>\
 						<div class="image-name">Pipes</div>\
 					</div>\
-					<div class="many-more">and many more ... Please <a href="#"> Register</a> to explore further</div>\
+					<div class="many-more">and many more ... Please <a href="http://aynicportal.herokuapp.com/#/page/signup"> Register</a> to explore further</div>\
 				</div></div>'
 			}
 		})
