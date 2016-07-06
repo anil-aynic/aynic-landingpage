@@ -91,7 +91,7 @@
 				type:'inline',
 				src:'<div class="how-it-works popup-content clearfix">\
 					<div class="col-sm-7 p-lr0">\
-						<img src="images/contractor_filled-icons_greenbackcrop.png" />\
+						<img src="images/contractor_filled-icons-greenbackcrop.png" />\
 					</div>\
 					<div class="description col-sm-5">\
 						<h3>For Contractor </h3>\
@@ -132,7 +132,7 @@
 				type:'inline',
 				src:'<div class="how-it-works popup-content clearfix">\
 					<div class="col-sm-7 p-lr0">\
-						<img src="images/vendor_filled-icons_greenbackcrop.png" />\
+						<img src="images/vendor_filled-icons_geenbackcrop.png" />\
 					</div>\
 					<div class="description col-sm-5">\
 						<h3>For Vendor </h3>\
