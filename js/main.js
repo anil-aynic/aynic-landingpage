@@ -96,9 +96,9 @@
 					<div class="description col-sm-5">\
 						<h3>For Contractor </h3>\
 						<ul>\
-							<li><span class="text">Construction Companies, Builders & \
+							<li class="tick"><span class="text">Construction Companies, Builders & \
 							Individuals engaged in Construction.</span></li>\
-							<li><span class="text">Setup your projects, add or modify requirements \
+							<li class="tick"><span class="text">Setup your projects, add or modify requirements \
 							and we will take care of getting you the best \
 							prices for delivery to your project site.</span></li> \
 							<li class="tick"><span class="text">Real time quotes available always.</span></li> \
@@ -203,11 +203,61 @@
 				}
 		})
 	}
-	var aboutUspopupOpener = function () {
-	   $('.popupOpener-aboutus,.menu-aboutus').magnificPopup({
+	// var aboutUspopupOpener = function () {
+	//    $('.popupOpener-aboutus,.menu-aboutus').magnificPopup({
+	//       items : {
+	//          src:'<div class="popup-content aboutUs">\
+	//          		<h2 class="popup-header">About Us</h2><hr>\
+	//          		<br>\
+	//           		<p>AYNIC was incorporated by passionate individuals with vast experience in Construction, IT and Supply Chain Management to increase operational efficiency in the construction industry through a  dedicated industry specific B2B market place.</p>\
+	// 		         <ul>\
+	// 		         	<li class="tick"><span class="text">Cut down the time required for Order Processing by more than 500% with the elimination of the RFQ & Comparitive Analysis in finalising the Order.</span></li>\
+	// 		         	<li class="tick"><span class="text">No more transportation worries as all quotes are for delivery to project site including transportation.</span></li>\
+	// 		      		<li class="tick"><span class="text">Single platform to procure goods (construction materials machinery & spares) and services (hire machinery, labor, technical staff and work quotes from qualified labor and PRW contractors).</span></li>\
+	// 		   		</ul>\
+	// 		   		<h6>Why AYNIC is different</h6>\
+	// 		   		<div class="points">\
+	// 		   			<div class="card">\
+	// 					<div class="traditional-point">Quotes sourced only from 3 to 5 Vendors leaving a vast chunk of vendors who may offer lower rates and quick delivery.</div\
+	// 					<div class="aynic-point"><div class="aynic-point">Multiple quotes from different vendors across the country. Choose the best quote based on price, distance and time to deliver.\
+	// 					Quantity based discount quotes for clearance sales / optimal factory utilisation.</div>\
+	// 					</div>\
+	// 					<div class="card">\
+	// 					<div class="traditional-point">Transportation mostly left out of Vendors scope increasing overhead and lead time for delivery of goods.</div>\
+	// 					<div class="aynic-point">Transportation fulfilled by AYNIC for Ex-Works quotes from Vendors.</div>\
+	// 					</div>\
+	// 					<div class="card">\
+	// 					<div class="traditional-point">Lack of trust & payment mechanisms to safeguard mutual interests leading to restricted dealings between Contractors and Vendors. </div>\
+	// 					<div class="aynic-point">Secured payment mechanism to safeguard Contractor and Vendor interests.\
+	// 					Legal & Financial Services for Order fulfilment.</div>\
+	// 					</div>\
+	// 					<div class="card">\
+	// 					<div class="traditional-point">Non availability of real time pricing and last mile delivery quotes.</div>\
+	// 					<div class="aynic-point">Real time last mile delivery Quotes against specific project requirements from Vendors across geographical regions.\
+	// 					Internal credit rating for Vendors & Contractors to facilitate differential pricing.</div>\
+	// 					</div>\
+	// 		   		</div>\
+ //     			</div>'
+	//       }
+	//    })    
+	// }
+	var whatWeDoOpener = function () {
+ $('.popupOpener-aboutus,.menu-aboutus').magnificPopup({
+ 	      items : {
+	         src:'<div class="popup-content whatwedo">\
+	         		<h2 class="popup-header">What we do</h2><hr>\
+	         		<br>\
+	          		<p>Operate an industry specific B2B Market place for constuction industry connecting contractors with Vendors and Transporters to increase operational efficency in procurement of goods, Services, Man power and Spares.</p>\
+			   		<img src="images/whatwedo1.png" />\
+     			</div>'
+	      }
+	   })    
+	}
+		var aboutUspopupOpener = function () {
+	   $('.popupOpener-whatwedo,.menu-whatwedo').magnificPopup({
 	      items : {
-	         src:'<div class="popup-content aboutUs">\
-	         		<h2 class="popup-header">About Us</h2><hr>\
+	         src:'<div class="popup-content whatwedo">\
+	         <h2 class="popup-header">About Us</h2><hr>\
 	         		<br>\
 	          		<p>AYNIC was incorporated by passionate individuals with vast experience in Construction, IT and Supply Chain Management to increase operational efficiency in the construction industry through a  dedicated industry specific B2B market place.</p>\
 			         <ul>\
@@ -215,40 +265,9 @@
 			         	<li class="tick"><span class="text">No more transportation worries as all quotes are for delivery to project site including transportation.</span></li>\
 			      		<li class="tick"><span class="text">Single platform to procure goods (construction materials machinery & spares) and services (hire machinery, labor, technical staff and work quotes from qualified labor and PRW contractors).</span></li>\
 			   		</ul>\
-			   		<h6>Why AYNIC is different</h6>\
-			   		<div class="points">\
-			   			<div class="card">\
-						<div class="traditional-point">Quotes sourced only from 3 to 5 Vendors leaving a vast chunk of vendors who may offer lower rates and quick delivery.</div\
-						<div class="aynic-point"><div class="aynic-point">Multiple quotes from different vendors across the country. Choose the best quote based on price, distance and time to deliver.\
-						Quantity based discount quotes for clearance sales / optimal factory utilisation.</div>\
-						</div>\
-						<div class="card">\
-						<div class="traditional-point">Transportation mostly left out of Vendors scope increasing overhead and lead time for delivery of goods.</div>\
-						<div class="aynic-point">Transportation fulfilled by AYNIC for Ex-Works quotes from Vendors.</div>\
-						</div>\
-						<div class="card">\
-						<div class="traditional-point">Lack of trust & payment mechanisms to safeguard mutual interests leading to restricted dealings between Contractors and Vendors. </div>\
-						<div class="aynic-point">Secured payment mechanism to safeguard Contractor and Vendor interests.\
-						Legal & Financial Services for Order fulfilment.</div>\
-						</div>\
-						<div class="card">\
-						<div class="traditional-point">Non availability of real time pricing and last mile delivery quotes.</div>\
-						<div class="aynic-point">Real time last mile delivery Quotes against specific project requirements from Vendors across geographical regions.\
-						Internal credit rating for Vendors & Contractors to facilitate differential pricing.</div>\
-						</div>\
+			   		<div class="text-center">\
+			   		<img src="images/presentationcrop1.png" class="w-75" />\
 			   		</div>\
-     			</div>'
-	      }
-	   })    
-	}
-	var whatWeDoOpener = function () {
-	   $('.popupOpener-whatwedo,.menu-whatwedo').magnificPopup({
-	      items : {
-	         src:'<div class="popup-content whatwedo">\
-	         		<h2 class="popup-header">What we do</h2><hr>\
-	         		<br>\
-	          		<p>Operate an industry specific B2B Market place for constuction industry connecting contractors with Vendors and Transporters to increase operational efficency in procurement of goods, Services, Man power and Spares.</p>\
-			   		<img src="images/whatwedo1.png" />\
      			</div>'
 	      }
 	   })    
