@@ -535,17 +535,18 @@ header#fh5co-header {
     text-align: right;
     padding-right: 32px;
     font-family: Lato, arial, sans !important;
-font-weight: bold;
-
+    font-weight: bold;
 }
 
 .phone-text {
-   font-size: 15px;
+    font-size: 15px;
 }
 
 .phone-icon {
     font-size: 25px;
-    padding-right: 10px
+    padding-right: 10px;
+    position: relative;
+    top: 5px;
 }
 
 
@@ -608,8 +609,8 @@ font-weight: bold;
         position: relative;
         bottom: 10px;
     }
-    .phone-text{
-      padding-right: 10px
+    .phone-text {
+        padding-right: 10px
     }
 }
 
