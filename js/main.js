@@ -266,7 +266,7 @@
 			      		<li class="tick"><span class="text">Single platform to procure goods (construction materials machinery & spares) and services (hire machinery, labor, technical staff and work quotes from qualified labor and PRW contractors).</span></li>\
 			   		</ul>\
 			   		<div class="text-center">\
-			   		<img src="images/presentationcrop1.png" class="w-75" />\
+			   		<img src="images/presentation2crop.png" class="w-75" />\
 			   		</div>\
      			</div>'
 	      }
