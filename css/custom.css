@@ -549,6 +549,29 @@ header#fh5co-header {
     top: 5px;
 }
 
+.buttonDiv {
+    width: 50px !important;
+}
+
+.button {
+    display: block;
+    background-color: #16a085;
+    color: white;
+    width: 56px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.button:hover {
+    color: white!important;
+}
+
+.buttonDiv a:hover {
+    color: white !important;
+    text-decoration: unset;
+    opacity: 0.8;
+}
+
 
 /*responsive*/
 
