@@ -534,10 +534,13 @@ header#fh5co-header {
     color: white;
     text-align: right;
     padding-right: 32px;
+    font-family: Lato, arial, sans !important;
+font-weight: bold;
+
 }
 
 .phone-text {
-    font-size: 16px;
+   font-size: 15px;
 }
 
 .phone-icon {
