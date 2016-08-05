@@ -571,6 +571,9 @@ header#fh5co-header {
     text-decoration: unset;
     opacity: 0.8;
 }
+.text-right{
+    text-align: right;
+}
 
 
 /*responsive*/
